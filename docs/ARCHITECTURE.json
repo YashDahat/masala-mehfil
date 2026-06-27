@@ -3,8 +3,8 @@
   "business_name" : "Masala Mehfil",
   "base_package" : "com.masalamehfil",
   "project_dependencies" : {
-    "spring_boot_starters" : [ "web", "data-jpa", "postgresql", "lombok", "validation", "actuator", "security" ],
-    "npm_packages" : [ "@tanstack/react-query", "react-hook-form", "zod", "axios", "react-router-dom", "clsx", "lucide-react" ]
+    "spring_boot_starters" : [ "web", "data-jpa", "security", "validation", "actuator", "lombok" ],
+    "npm_packages" : [ "axios", "react-router-dom", "@tanstack/react-query", "react-hook-form", "zod", "@hookform/resolvers", "clsx", "tailwind-merge", "lucide-react", "@radix-ui/react-dialog", "@radix-ui/react-label", "@radix-ui/react-toast", "@radix-ui/react-select", "@radix-ui/react-slot" ]
   },
   "files" : [ ],
   "features" : [ ]
