@@ -1,10 +1,10 @@
 {
-  "generated_at" : "2024-07-27T10:00:00Z",
+  "generated_at" : "2024-07-30T10:00:00Z",
   "business_name" : "Masala Mehfil",
   "base_package" : "com.masalamehfil",
   "project_dependencies" : {
-    "spring_boot_starters" : [ "web", "data-jpa", "postgresql", "lombok", "validation", "actuator", "security", "mail" ],
-    "npm_packages" : [ "@tanstack/react-query", "react-hook-form", "zod", "axios", "react-router-dom", "clsx", "react-hot-toast", "@radix-ui/react-dialog", "@radix-ui/react-label", "@radix-ui/react-select", "@radix-ui/react-slot" ]
+    "spring_boot_starters" : [ "web", "data-jpa", "postgresql", "lombok", "validation", "actuator", "security" ],
+    "npm_packages" : [ "@tanstack/react-query", "react-hook-form", "zod", "axios", "react-router-dom", "clsx", "lucide-react", "@radix-ui/react-dialog", "@radix-ui/react-label", "@radix-ui/react-toast" ]
   },
   "files" : [ ],
   "features" : [ ]

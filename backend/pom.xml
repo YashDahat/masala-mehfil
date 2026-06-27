@@ -112,7 +112,7 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<configuration>
 					<fork>true</fork>
-					<executable>${env.JAVA_HOME}/bin/javac</executable>
+					<executable>/usr/local/openjdk-17/bin/javac</executable>
 					<annotationProcessorPaths>
 						<path>
 							<groupId>org.projectlombok</groupId>
