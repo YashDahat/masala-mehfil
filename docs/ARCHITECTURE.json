@@ -1,0 +1,11 @@
+{
+  "generated_at" : "2024-07-29T10:00:00Z",
+  "business_name" : "Masala Mehfil",
+  "base_package" : "com.masalamehfil",
+  "project_dependencies" : {
+    "spring_boot_starters" : [ "web", "data-jpa", "postgresql", "lombok", "validation", "actuator", "security" ],
+    "npm_packages" : [ "@tanstack/react-query", "react-hook-form", "zod", "axios", "react-router-dom", "clsx", "lucide-react" ]
+  },
+  "files" : [ ],
+  "features" : [ ]
+}
